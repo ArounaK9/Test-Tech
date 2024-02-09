@@ -2,6 +2,9 @@ body{
     font-family: "Inter", sans-serif;
     width: 100%;
 }
+a{
+    text-decoration: none;
+}
 .top, .mid, .bot{
     display: grid;
     justify-items: center;
